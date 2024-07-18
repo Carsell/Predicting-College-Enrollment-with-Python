@@ -1,7 +1,21 @@
-College Enrollment Prediction
-This repository presents Python code for predicting college enrollment potential using Decision Tree and Random Forest classifiers. The analysis involves the College dataset, covering features like balance, qualifying miles, credit card miles, non-flight bonus miles, flight miles, flight transactions, days since enrollment, and the target variable "will_go_to_college."
+# Predicting College Enrollment with Python
 
-Steps Included:
+This repository contains code and data for predicting college enrollment using machine learning techniques. The core analysis and modeling are done in Python using various libraries.
+
+## Repository Structure
+
+```plaintext
+Predicting_College_Enrollment/
+├── data/
+│   └── data.csv
+├── notebooks/
+│   └── Predicting_College_Enrollment_with_Python.ipynb
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+
+## Steps Included
 Importing Required Libraries:
 Utilizing essential libraries for data manipulation, visualization, and machine learning.
 
